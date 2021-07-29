@@ -1,8 +1,6 @@
 <h1 align="center">Hey there! I'm João Pedro Fazenda 👋 </h1>
 
 <div>
-  <img src="./github.png"
-    min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
   <p align="left">
     <a href="https://www.twitter.com/VGrenzel/" alt="Twitter" target="_blank">
