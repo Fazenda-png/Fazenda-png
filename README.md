@@ -1,5 +1,3 @@
-<h1 align="center">Hey there! I'm João Pedro Fazenda 👋 </h1>
-
 <div>
 
   <p align="left">
@@ -16,7 +14,6 @@
     <ul>
       <li align="left">🎓 &nbsp; Studying Computer Science.</li>
       <li align="left">💼 &nbsp; Currently working with automated test development</li>
-      <li align="left">🤔 &nbsp; Exploring new technologies and developing software solutions.</li>
       <li align="left">🌱 &nbsp; I am crazy about java and its frameworks</li>
     </ul>
   </div>
