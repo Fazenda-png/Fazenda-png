@@ -1,7 +1,6 @@
 <div>
 
   <p align="left">
-    <a href="https://twitter.com/jpFazenda" alt="Twitter" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=black" /></a>
     <a href="https://www.instagram.com/fazenda.jp/" alt="Instagram" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=black" /></a>
